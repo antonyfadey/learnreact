@@ -1,0 +1,8 @@
+.main-page {
+    position: absolute;
+    top: 15%;
+    transform: translate(-50%, -15%);
+    margin: auto;
+    justify-content: space-between;
+    display: inline-block;
+}

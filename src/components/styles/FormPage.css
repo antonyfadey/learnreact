@@ -1,0 +1,21 @@
+.form-page {
+    position: absolute;
+    top: 15%;
+    transform: translate(-50%, -15%);
+    width: auto;
+    height: auto;
+    margin: auto;
+    justify-content: space-between;
+    display: inline-block;
+}
+
+.button-back {
+    position: absolute;
+    /* top: 50%; */
+    right: 45%;
+    /* transform: translateX(-55%); */
+}
+
+.fullWidth {
+    width: 100%;
+}
